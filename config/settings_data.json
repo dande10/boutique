@@ -133,9 +133,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "25% off using DISCOUNT Coupon",
+              "text": "Get 10% off for first order",
               "text_alignment": "center",
-              "color_scheme": "accent-2",
+              "color_scheme": "background-2",
               "link": ""
             }
           }
