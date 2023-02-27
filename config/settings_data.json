@@ -177,7 +177,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Info",
-              "menu": "footer"
+              "menu": "info-menu"
             }
           },
           "footer-2": {
