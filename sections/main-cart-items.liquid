@@ -223,7 +223,8 @@
                       <label class="visually-hidden" for="Quantity-{{ item.index | plus: 1 }}">
                         {{ 'products.product.quantity.label' | t }}
                       </label>
-                      <quantity-input class="">
+                      <quantity-input class="" style="margin-top: 8px;">
+                        {% comment %} class quantity {% endcomment %}
                         {% comment %}
                           <button class="quantity__button no-js-hidden" name="minus" type="button">
                             <span class="visually-hidden">
